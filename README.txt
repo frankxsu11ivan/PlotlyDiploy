@@ -14,7 +14,8 @@ The difficulty were errors in HTML code read from inspect and chasing them back 
 	Refreshing the website and running developer tools is how the site was debugged. 
 	
 ---Project Overview of Belly Button
-	Java Script of current data regarding belly button crud. samples json is part of the interactive website.
+	Java Script of current data regarding belly button crud. samples json is part of the interactive website.attached is an 
+	image of the site. https://github.com/frankxsu11ivan/PlotlyDiploy
 	
  
 
